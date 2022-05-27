@@ -1,0 +1,28 @@
+body
+ {
+     text-align: center;
+     
+ }
+#menu {
+    list-style: none;
+    position: fixed;top: 0px;
+    margin-top: 0%;
+    z-index: 10;
+    cursor: pointer;
+    
+    
+}
+.link{
+    
+   padding-left: 30px;
+   padding-right: 30px;
+    display: inline;
+font-size: 20px;
+}
+.link:hover{
+    font-size: 30px;
+    text-decoration: underline;
+}
+img{
+    width: 400px;
+}
